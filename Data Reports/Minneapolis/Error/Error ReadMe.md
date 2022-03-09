@@ -1,7 +1,8 @@
 ### Current Minneapolis Rental Data  Error Log:
 
 For the Minneapolis Rental Housing Report, I have used two open datasets from Minneapolis open data portal [Active Rental Licenses](https://opendata.minneapolismn.gov/datasets/cityoflakes::active-rental-licenses/about) and  [Assessors Parcel Data 2021](https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2021/explore). 
-I have found errors on the datatable including the tax identification number. I encourage appropiate government officials to look at the respective tables and correct them in your database. **These corrections will make sure that data is high quality and there would be conflicts for internal reporting**
+
+I have found errors on the datatable including the tax identification number (TID or apn). I encourage appropiate government officials to look at the respective tables and correct them in your database. **High quality clean data is important for accuracy and reduce conflicts for internal reporting**
 
 **Please feel free to email me at anayeem1@gmail.com if you questions**
 
