@@ -1,4 +1,4 @@
-### Current Minneapolis Rental Data  Error Log:
+### Current Minneapolis Rental Report Data Error Log:
 
 For the Minneapolis Rental Housing Report, I have used two open datasets from Minneapolis open data portal [Active Rental Licenses](https://opendata.minneapolismn.gov/datasets/cityoflakes::active-rental-licenses/about) and  [Assessors Parcel Data 2021](https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2021/explore). 
 
