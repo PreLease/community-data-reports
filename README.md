@@ -16,7 +16,7 @@ Prelease is a service that validates the rental history between tenants and land
 1) We take public open data from various sources and provide meaningful **interative reports** so community members, researchers, and  lawmakers, can take local action. We seek to create a local housing dashboard
 2) We provide valuable **public data services**. We clean the data, test for quality assurance,and inform the local agencies of potential errors that are found. There is an error table for each city's folder. 
 3) We want to survey tenants and housing providers, and provide in-house aggregate data to the public as part of our service.
-4) We are an **Open-Source**. All raw code, data, and analysis are repeatable and available to the public. We encourage other programmers and developers to contribute to this project. Currently, we are just using Jupyter notebooks.
+4) We are an **Open-Source repository**. All data, raw coding, and analysis are available and replicable. We encourage other programmers and developers to contribute to this project. Currently, we are just using Jupyter notebooks.
 
 **If any graphs or reports are used in presentations, or any other professional settings, please credit, PreLease Open Housing Data **
 
