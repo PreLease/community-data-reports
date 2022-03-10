@@ -4,7 +4,7 @@ For the Minneapolis Rental Housing Report, I have used two open datasets from Mi
 
 I have found errors on the datatable including the tax identification number (TID or apn). I encourage appropiate government officials to look at the respective tables and correct them in your database. **High quality clean data is important for accuracy and reduce conflicts for internal reporting**
 
-**Please feel free to email me at anayeem1@gmail.com if you questions**
+**Please feel free to email me at anayeem1@gmail.com if you have any questions**
 
 
 1) Issue: On the Active Rental Licenses Dataset, there are license entries of expired rental leases. Are they no longer active?
