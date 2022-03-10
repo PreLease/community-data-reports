@@ -1,4 +1,4 @@
-## Minneapolis Housing Open Data Portal Directory
+## [In-Progress] Saint Paul Housing Open Data Portal Directory
 
 We recommend using Python Jupyter Notebook to view ipnyb files. The portal includes 
 - **Datasets Folder:** include raw data, reporting data, and geo_json files 
