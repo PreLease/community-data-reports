@@ -1,6 +1,6 @@
-### PreLease Open Housing Data Initiative
+## PreLease Open Housing Data Initiative
 
-## Introduction
+### Introduction
 
 Welcome! My name is Abu Nayeem. I'm the lead programmer, co-founder of Prelease, and community organizer in Saint Paul, Minnesota. Also, I'm the founder of the Saint Paul Open Data Initiative, where I took public data to create interactive reports and create dialogue within the local community. For example, I used local crime data to create a [petition](https://chng.it/xXpjKB8r) to pressude local lawmakers to address catalytic converter thefts, among other community reports ([view here](https://github.com/sustainabu/OpenData_Saint_Paul/blob/b5af2d28b4d845b5180f8e258cc1a75df200df91/ActiveReports.md)). 
 
