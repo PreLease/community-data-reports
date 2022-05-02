@@ -1,0 +1,20 @@
+Update To-Do-list for Analysis for Minneapolis Analysis 
+
+0) I have talked to data analysts of Minenapolis, and would need to update the error-logs as some the spotted anomalies are expected
+
+1) Conversion Fee Information: https://www2.minneapolismn.gov/business-services/licenses-permits/rental-licenses/fees/
+  a) CONV= Conversion and costs $1000 unless exemption
+  b) CHOWN= Change of Owenership 
+  c) Short term rental licenses costs only $50
+  d) You can do a fee analysis with this data for each property 
+  
+2) I figured how to use the API to get data directly from API; HOWEVER the data format is messy and would require additional programming to fix
+
+3) I decline from building an update rental application; I would need an in-house relational database (SQL) to be worthwhile
+
+4) I have found additional data rental fees charged to property owners; that will require considerable data wrangling to figure out how to merge
+
+
+  
+
+  
