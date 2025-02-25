@@ -9,6 +9,7 @@ Here is a list of current datasets/projects. We hope to work with local partners
 * Dataset: [Assessors Parcel Data 2021](https://opendata.minneapolismn.gov/datasets/assessors-parcel-data-2021/explore): Hennepin county assesss property data for every year 
 * Unique Identifier: Tax IDs for each parcel is suppose to be unique
 * Cleaned Data? No, see [Error Log Document](https://github.com/PreLease/community-data-reports/blob/058afacb566e8a58860dfdd0e08bc846c8d97e27/Data%20Reports/Minneapolis/Error/README.md) 
-* Interactive Report/Notebook: [PreLease: Minneapolis Housing Report; 03/02/22](https://l.facebook.com/l.php?u=https%3A%2F%2Fnbviewer.org%2Fgithub%2FPreLease%2Fcommunity-data-reports%2Fblob%2Fmain%2FData%2520Reports%2FMinneapolis%2FPrelease%2520Mpls%2520Rental%2520Report.ipynb%3Ffbclid%3DIwAR1yf4NG7Otcqo3K4tegE1vA0UH-coKY4n3-EE-Myx4oni9fJqcujWgr54M&h=AT0yNuCuvCurfmeG-2qkKSvoDlk7dsQTdQrP4-mCz8WUu-FwVwg6yPnxH6Md-sTKjyj4pdyvbQCnWdadGjqpxZhlAJxuxGP7PIdGaXN6mhpowVxO8ZcpYW2ggTphMfvwEA)        
+* Interactive Report/Notebook: [PreLease: Minneapolis Housing Report; 03/02/22](https://nbviewer.org/github/PreLease/community-data-reports/blob/main/Data%20Reports/Minneapolis/Prelease%20Minneapolis%20Rental%20Report.ipynb)
+* Blog Post: [Minneapolis State of Rental Housing: Rent Control & Housing Report](https://medium.com/@getprelease/minneapolis-state-of-rental-housing-sorh-rent-control-open-housing-data-report-73d38a557ab7)       
 
 
